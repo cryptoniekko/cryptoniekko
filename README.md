@@ -10,7 +10,7 @@ Here you'll find my experiments, projects, and a glimpse into the tools I love u
 ### 🛠️ Tools and Technologies
 <p></p>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,css,visualstudio,vscode,windows,bitbucket,jira,docker,kubernetes,androidstudio,cypress,nodejs,selenium,mongodb,js,grafana,firebase,apache,postman,prometheus,html,git,jenkins,sqlserver,github,bash,mysql,playwright,kibana&titщles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,css,visualstudio,vscode,cpp,vim,windows,linux,ubuntu,bitbucket,jira,azure,docker,kubernetes,androidstudio,cypress,nodejs,selenium,mongodb,redis,js,react,grafana,firebase,apache,postman,prometheus,html,git,jenkins,sqlserver,github,bash,py,mysql,playwright,kibana,php&titщles=true)
  
 ### 🏆 GitHub Stats
 <div align="center">
@@ -27,6 +27,13 @@ Here you'll find my experiments, projects, and a glimpse into the tools I love u
 <p></p>
 </div>
 
+
+
+### 📩 Let's connect:
+<p>  
+  <a href="https://bitcointalk.org/index.php?action=profile;u=3588624"><img src="http://media.lordicon.com/icons/wired/flat/2710-logo-square-bitcoin.gif" alt="Bitcoin" width="64" height="64"></a>
+  <a href="mailto:cryptoniekko@gmail.com"><img src="https://media.lordicon.com/icons/wired/flat/2963-christmas-mailbox.gif" alt="Email" width="64" height="64" /></a>
+</p>
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=cryptoniekko.cryptoniekko)
 
